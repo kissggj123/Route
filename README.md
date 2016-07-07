@@ -1,4 +1,4 @@
-## A Script for you to setup VPN Server easily and Create VPN Connection with your devices by llapse.Based onLibreswan&xl2tpd.
+## A Script for you to setup VPN Server easily and Create VPN Connection with your devices by llapse.Based on Libreswan & xl2tpd.
 
 ## Route Features
 - Supported IPSEC(L2TP) Connection
