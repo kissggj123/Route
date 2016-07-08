@@ -10,20 +10,20 @@
 
 - Ubuntu 16.04(Xenial),14.04 (Trusty) or 12.04 (Precise)
 - Debian 8 (Jessie) 
-- CentOS 6&7
+- CentOS 6&7 (32&64bit)
 
-## Get it by using
+## Get the script by using
 ```bash
 $ wget https://raw.githubusercontent.com/llapse/Route/master/routevpn
 ```
-## Give it access
+## Give access to the script
 ```bash
 $ chmod 777 routevpn
 ```
-## Run this Script
+## Run Script on your server to setup VPN
 ```bash
 $ ./routevpn
 ```
 ## Setup Accounts for Connect on your Devices
 
-Choose IPSEC or L2TP Connection and input the value form Script feedback
+Choose IPSEC or L2TP Connection and input the value form Script output
